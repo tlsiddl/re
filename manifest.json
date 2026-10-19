@@ -1,0 +1,14 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "Gacha Forge Sound · Mobile Optimized",
+    "version": "5.2.0-mobile.1",
+    "description": "공식 v5.2.0 기반 모바일 절전 패치. 배경음·효과음 유지, 저사양 기본값, 리버브 회로 절전, 타이머 경량화.",
+    "runtime": "client",
+    "capabilities": [
+      "full_page_access"
+    ],
+    "jsPath": "extension.js"
+  }
+}
